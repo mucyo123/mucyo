@@ -1,0 +1,25 @@
+body{
+    
+    margin: 0%;
+    padding: 0%;
+}
+.menus{
+    background-color: rgb(163, 218, 12);
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 40%;
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+    color:;
+}
+.label{
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 50px;
+    background: transparent;
+    position: center;
+}
+.jingo{
+    width:;
+}

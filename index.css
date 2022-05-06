@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+label{
+    font-size: 40px;
+    color: #fff;
+}
+body{
+    background:rgb(143, 187, 62);
+}
+.navbar{
+    color: #fff;
+    
+    margin-left: 100px;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+    position: center;
+}

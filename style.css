@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: times new roman;
+    background: rgb(0, 0, 0);
+}
+.box{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    border-radius: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #00d6d683;
+    texr-align: center;
+}
+.box input[type = "text"]{
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #d9ff04;
+    padding: 13px 10px;
+    width: 200px;
+    outline: #fff;
+    color: #000000;
+    border-radius: 10px;
+    transition: 00.60s;
+}
+.box input[type="password"]{
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #d9ff04;
+    padding: 13px 10px;
+    width: 150px;
+    outline: #fff;
+    color: #000000;
+    border-radius: 10px;
+    transition: 00.25s;
+}
+.box input[type="submit"]{
+    background: green;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #d9ff04;
+    font-family: Cambria, Cochin, Georgia, Times,s;
+    padding: 7px 5px;
+    width: 100px;
+    outline: #fff;
+    color: #000000;
+    border-radius: 10px;
+    transition: 00.25s;
+    cursor:  pointer;
+}.loginbox a:hover{
+    color: #d9ff04;
+}
